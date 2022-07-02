@@ -41,10 +41,14 @@ plugins:
 
 
 header_pages:
-  - pages/home.md
+  - pages/home.html
   - pages/about.md
 
 style: dark
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 footer: 'follow me on GitHub <a href="https://github.com/tuckersn">tuckersn</a>'
 
