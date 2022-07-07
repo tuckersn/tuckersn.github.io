@@ -6,5 +6,4 @@ permalink: /about/
 
 My name is Tucker, and I make things.
 
-I plan to add some project summary write ups to this site.
-
+This site is for my projects and guides.

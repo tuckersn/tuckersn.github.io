@@ -43,6 +43,7 @@ plugins:
 header_pages:
   - pages/home.html
   - pages/about.md
+  - pages/contact.html
 
 style: dark
 

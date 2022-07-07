@@ -137,6 +137,15 @@ footer {
 .menu {
 	border: var(--border);
 	margin-bottom: 25px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.menu .menu-title {
+	flex: 1;
+	margin-left: 9px;
 }
 
 .menu ul {
