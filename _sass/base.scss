@@ -1,6 +1,6 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400&display=swap');
 
 /**
  * Style variables
@@ -565,3 +565,20 @@ pre {
 }
 
 /* Literal.Number.Integer.Long */
+
+
+/** CUSTOM **/
+.highlight {
+	font-family: 'Fira Code', monospace !important;
+	font-weight: 300;
+	
+	border: 1px dashed white;
+
+	padding: 4px;
+	padding-left: 8px;
+}
+
+code {
+	font-family: 'Fira Code', monospace !important;
+	font-weight: 300;
+}
